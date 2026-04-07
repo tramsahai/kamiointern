@@ -4,7 +4,7 @@ A wallet homepage for the KamioKash rewards app.
 
 ## Features
 
-- Wallet balance showing 1000 KashCoins (I made this up)
+- Wallet balance showing 1000 KashCoins 
 - Welcome message with user name
 - Send, Receive, and Scan buttons
 - Recent activity section with transaction history
